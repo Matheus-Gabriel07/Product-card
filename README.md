@@ -4,8 +4,8 @@ Esta é uma solução para [Product preview card component](https://www.frontend
 
 ## Links
 
-- Solution URL: [Click me!](https://www.frontendmentor.io/solutions/responsive-results-summary-component-bENknSCdx6)
-- Live Site URL: [Click me!](https://results-summary-component-math.netlify.app/)
+- Solution URL: [Click me!](https://www.frontendmentor.io/solutions/product-card-RZgl4tmdeM)
+- Live Site URL: [Click me!](https://card-product-math.netlify.app)
 
 ## Author
 
